@@ -10,12 +10,12 @@
   font-size: 36px;
 }
 
-.class2.odd {
-  font-size: 24px;
-}
-
 #id2 {
   background-color: lightgreen;
-  font-size: 24px;
+
   font-weight: bold;
+}
+
+.font-size {
+  font-size: 24px;
 }
